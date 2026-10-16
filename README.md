@@ -39,7 +39,7 @@ This **Power BI Dashboard** provides deep insights into bank transaction flows, 
 
 ### Regional & Currency Breakdown Matrix
 ![City-Wise Breakdown]
-<a href=""></a>
+<a href="https://github.com/owaiskhan2533/Bank-Transaction-Balance-Analytics-PowerBI/blob/main/Screenshot%202026-09-29%20184137.png"></a>
 
 ---
 
