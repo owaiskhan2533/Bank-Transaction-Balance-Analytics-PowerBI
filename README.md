@@ -34,11 +34,9 @@ This **Power BI Dashboard** provides deep insights into bank transaction flows, 
 ##  Dashboard Preview
 
 ### Overview: Monthly Balance Trends (2024)
-![Monthly Balance Trends]
-<a href=""></a>
+<a href="https://github.com/owaiskhan2533/Bank-Transaction-Balance-Analytics-PowerBI/blob/main/Screenshot%202026-09-29%20184127.png"></a>
 
 ### Regional & Currency Breakdown Matrix
-![City-Wise Breakdown]
 <a href="https://github.com/owaiskhan2533/Bank-Transaction-Balance-Analytics-PowerBI/blob/main/Screenshot%202026-09-29%20184137.png"></a>
 
 ---
